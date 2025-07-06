@@ -8,4 +8,4 @@
 # DESCRIPTION OF TASK - Here I'm design a logo mockups 2-3 varations here I'm using Figma tools like move tool , colors , images 
 
 ## OUTPUT ##
-![Image](https://github.com/user-attachments/assets/b1bbc4cf-cc57-4763-954a-57d792e30d0a)
+
